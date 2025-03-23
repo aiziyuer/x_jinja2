@@ -1,0 +1,6 @@
+jinja2-ansible-filters
+ansible-core
+jinja2
+jsonpath
+json5
+bumpversion2
