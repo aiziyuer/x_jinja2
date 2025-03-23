@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="x-jinja2",  # 包名
-    version="0.1.0",  # 版本号
+    version="0.1.1",  # 版本号
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     description="让jinja2自带各类好用的filter",  # 简短描述
